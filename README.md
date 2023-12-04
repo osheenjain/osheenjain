@@ -3,8 +3,24 @@
 A Neurotechnology Researcher and Tech Content Writer with a strong background in EEG Data Analysis and ML
 
 Connect with me on:
-  🏢 [LinkedIn]([url](https://www.linkedin.com/in/osheenjain/))
-  💡 [Medium]([url](https://medium.com/@osheenjain))
+
+  🏢 [LinkedIn](https://www.linkedin.com/in/osheenjain/)
+  
+  💡 [Medium](https://medium.com/@osheenjain)
+
+Check my content portfolio:
+
+  🌍 [Osheen Jain](https://osheenjain.com/portfolio/)
+  
+### Check out my latest projects
+
+
+
+
+
+### Check out my latest articles
+
+
 
 <!--
 **osheenjain/osheenjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
