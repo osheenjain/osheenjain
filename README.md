@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there. I'm Osheen
+
+A Neurotechnology Researcher and Tech Content Writer with a strong background in EEG Data Analysis and ML
+
+Connect with me on:
+  🏢 [LinkedIn]([url](https://www.linkedin.com/in/osheenjain/))
+  💡 [Medium]([url](https://medium.com/@osheenjain))
 
 <!--
 **osheenjain/osheenjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
