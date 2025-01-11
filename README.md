@@ -1,6 +1,6 @@
-### Hi there. I'm Osheen
+### My name is Osheen Jain
 
-A Neurotechnology Researcher and Tech Content Writer with a strong background in EEG Data Analysis and ML
+I study the brain, machines, and how they can work together.
 
 Connect with me on:
 
