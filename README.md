@@ -1,38 +1,45 @@
-### My name is Osheen Jain
+<h1 align="center"> My name is Osheen Jain 👋</h1>
 
-I study the brain, machines, and how they can work together.
+<h3 align="center"> I study the brain, machines, and how they can work together. </h3>
 
-Connect with me on:
+## 🧠 About Me
 
-  🏢 [LinkedIn](https://www.linkedin.com/in/osheenjain/)
-  
-  💡 [Medium](https://medium.com/@osheenjain)
+I'm fascinated by the world of cognitive neuroscience, particularly EEG-based BCI systems and neurotechnology. I enjoy diving deep into how the brain interacts with technology to create innovative solutions.
 
-Check my content portfolio:
+## 🔬 Research Interests
 
-  🌍 [Osheen Jain](https://osheenjain.com/portfolio/)
-  
-### Check out my latest projects
+- EEG-based Brain-Computer Interfaces (BCI)
+- Neurotechnology and its applications
+- Machine Learning and Data Analysis in Neuroscience
+- Supporting neurodiverse individuals through tailored interventions
 
+## 💼 Work Experience
 
+- **EEG Research Assistant** at Neurolive – ERC-Funded Project
+- **Neurotechnology Researcher** at LiquidWeb s.r.l.
+- **Teaching Assistant** at Zen Educate
 
+## 📚 Education
 
+- M.Sc. Computational Cognitive Neuroscience, Goldsmiths College, University of London
+- M.A. Philosophy, University of Delhi
+- B.E. Electronics and Communication, Sagar Institute of Research and Technology
 
-### Check out my latest articles
+## 🛠️ Skills
 
+- Programming Languages: Python, MATLAB, Java
+- Machine Learning Libraries: TensorFlow, Keras, Scikit-Learn
+- EEG Analysis Tools: EEGLAB, MNE Python, BioSemi ActiveTwo
 
+## 📈 Publications
 
-<!--
-**osheenjain/osheenjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- M. Sultana, **O. Jain**, et al,  "Evaluating Dry EEG Technology Out of the Lab," in Proceedings of the 2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), St Albans, United Kingdom, 2024, pp. 752-757. doi: 10.1109/MetroXRAINE62247.2024.10797021.
+- "Investigating the Effect of Emotional Stimuli on Visual Imagery Performance in EEG-Based BCI Systems" - M.Sc. Thesis
 
-Here are some ideas to get you started:
+## 🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website](http://www.osheenjain.com)
+- [LinkedIn](https://www.linkedin.com/in/osheenjain)
+- [Email](mailto:osheen.jain@example.com)
+
+Feel free to explore my repositories and reach out if you're interested in collaborating or learning more about my work!
